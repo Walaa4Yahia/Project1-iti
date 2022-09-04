@@ -44,7 +44,7 @@ class About extends StatelessWidget {
               child: Wrap(
                 children: [
                   Text(
-                    "Neru My Black Directionary,This App You Can Buy Dress Shirt Shoes Pant And Tie And Many Other Product In Cheap Price, Now Its Time Buy SomeThing",
+                    "This App You Can Buy Dress Shirt Shoes Pant And Tie And Many Other Product In Cheap Price, Now Its Time Buy SomeThing",
                     style: TextStyle(fontSize: 22, color: Colors.grey),
                   ),
                 ],
